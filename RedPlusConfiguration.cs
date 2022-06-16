@@ -12,7 +12,7 @@ namespace RedPlus
         public void LoadDefaults() {
 
             MessageColour = "magenta";
-            LoadMessage = "RedPlus is made by: MrRed";
+            LoadMessage = "RedPlus is made by: Jak#6967";
             Kits = new Kit[]
             {
                 new Kit()
