@@ -46,17 +46,7 @@ namespace RedPlus
             { "KitNoPermission", "You don't have permission to exeute this command!" },
             { "KitCooldown", "This kit is on cooldown! You have to wait {0} to use this kit again!" },
             { "KitsList", "The available kits are: Put the kits names here :)" },
-            { "DiscordLink", "Join our discord! discord.gg/gvSFWSesKY" },
-            { "THIS IS JUST A PLACEHOLDER!", "DO NOT EDIT!"},
-            { "RuleLine1", "Safezone Rules" },
-            { "RuleLine2", "1. No KOS/RDM (Killing On Sight, Random Death Match)" },
-            { "RuleLine3", "2. No mic spamming, This includes no racist comments, No Sexual noises, ect..." },
-            { "RuleLine4", "3. You are allowed to kill but you have to give to 3 warnings in chat for example, 'W1', 'W2' and 'W3'" },
-            { "RuleLine5", "4. No Robbing in safe zone" },
-            { "RuleLine6", "5. No stealing vehicles or aircrafts" },
-            { "RuleLine7", "6. No raiding or greying bases" },
-            { "RuleLine8", "7. Do not beg staff members for free items" },
-            { "RuleLine9", "8. No Scamming or stealing" }
+            { "DiscordLink", "Join our discord! discord.gg/gvSFWSesKY" }
         };
 
     }
