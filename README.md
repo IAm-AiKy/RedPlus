@@ -2,8 +2,8 @@
 ### Unturned RocketMod Plugin
 
 ##### Permissions;
-kit
-kit.name
-kits
-discord
-rphelp
+kit\n
+kit.name\n
+kits\n
+discord\n
+rphelp\n
